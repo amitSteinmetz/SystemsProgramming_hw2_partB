@@ -1,0 +1,29 @@
+Alice played King of Clubs Bob played 8 of Diamonds. Alice wins. 
+Alice played 10 of Spades Bob played 9 of Clubs. Alice wins. 
+Alice played Queen of Clubs Bob played Ace of Hearts. Bob wins. 
+Alice played 2 of Spades Bob played 4 of Hearts. Bob wins. 
+Alice played 7 of Diamonds Bob played Jack of Diamonds. Bob wins. 
+Alice played 8 of Clubs Bob played 2 of Clubs. Alice wins. 
+Alice played King of Spades Bob played Jack of Hearts. Alice wins. 
+Alice played 5 of Diamonds Bob played 6 of Clubs. Bob wins. 
+Alice played 5 of Clubs Bob played 5 of Hearts. Draw. Alice played 8 of Hearts Bob played King of Hearts. Bob wins. 
+Alice played 7 of Spades Bob played 7 of Hearts. Draw. Alice played Queen of Diamonds Bob played 9 of Hearts. Alice wins. 
+Alice played 10 of Hearts Bob played 9 of Spades. Alice wins. 
+Alice played 5 of Spades Bob played 2 of Hearts. Alice wins. 
+Alice played 3 of Diamonds Bob played 7 of Clubs. Bob wins. 
+Alice played Jack of Clubs Bob played 6 of Hearts. Alice wins. 
+Alice played 10 of Clubs Bob played 3 of Spades. Alice wins. 
+Alice played 4 of Diamonds Bob played 4 of Spades. Draw. Alice played 2 of Diamonds Bob played Ace of Diamonds. Alice wins. 
+Alice played 9 of Diamonds Bob played King of Diamonds. Bob wins. 
+Alice played 3 of Clubs Bob played Ace of Clubs. Bob wins. 
+Alice played Jack of Spades Bob played 3 of Hearts. Alice wins. 
+Alice played 8 of Spades Bob played Queen of Hearts. Bob wins. 
+
+Alice stats: 
+Earned cards: 15, Winning rate: 0.55
+
+Bob stats: 
+Earned cards: 11, Winning rate: 0.45
+
+General stats: 
+Num of draws: 3, Draw rate: 0.130435
