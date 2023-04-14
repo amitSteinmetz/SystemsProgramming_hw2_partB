@@ -1,8 +1,8 @@
 # SystemsProgramming_hw2_partB
 ## CardWar game
 
-This is the old, classic and fun game there everyone knows since childhood.
-Two players can play in a game. There are 52 cards, and the players that collect more cards is the winner.
+This is the old, classic and fun game that everyone knows since childhood.
+Two players can play in a game. There are 52 cards, and the player that collect more cards is the winner.
 
 The program split to four classes - card, deck, player and game.
 
